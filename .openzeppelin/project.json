@@ -3,7 +3,9 @@
   "contracts": {
     "Sample": "Sample"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^2.2.0"
+  },
   "name": "openzeppelinsdk-upgradeable-contract",
   "version": "1.0.0",
   "compiler": {
