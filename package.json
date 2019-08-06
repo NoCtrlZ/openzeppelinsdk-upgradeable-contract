@@ -1,0 +1,20 @@
+{
+  "name": "openzeppelinsdk-upgradeable-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://NoCtrlZ:mkdir_hemlock1@github.com/NoCtrlZ/openzeppelinsdk-upgradeable-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoCtrlZ/openzeppelinsdk-upgradeable-contract/issues"
+  },
+  "homepage": "https://github.com/NoCtrlZ/openzeppelinsdk-upgradeable-contract#readme"
+}
